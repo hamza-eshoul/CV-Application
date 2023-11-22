@@ -9,7 +9,7 @@ L'application consiste en un générateur de curriculum vitae qui permet aux uti
 L'objectif du projet est de consolider les concepts fondamentaux de React appris à travers les lessons React du Odin Project notamment
 l'état local, les effets secondaires et les props.
 
-- Lien du projet - https://odin-memory-card.onrender.com/
+- Lien du projet - https://cv-generator-vezb.onrender.com
 
 ## Application
 

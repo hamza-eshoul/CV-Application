@@ -8,7 +8,7 @@ The application consists of a curriculum vitae generator that allow users to dyn
 
 The goal of the project was to solidify key fundamental React concepts learned in the Odin Project React lessons. These concepts include state, side effects and props.
 
-- Project's Live Preview url - https://odin-memory-card.onrender.com/
+- Project's Live Preview url - https://cv-generator-vezb.onrender.com
 
 ## Application
 
